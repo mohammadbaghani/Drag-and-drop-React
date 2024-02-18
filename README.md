@@ -1,5 +1,4 @@
-# Drag-and-drop-with-react
-A drag and drop project  
+A drag and drop project
 See the live of project here : 
 https://drag-and-drop.iran.liara.run/
 
