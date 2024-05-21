@@ -1,7 +1,7 @@
 Drag and drop project with React
 See the live of project here : 
 
-https://drag-and-drop.iran.liara.run/
+https://drag-drop.liara.run/
 
 پروژه درگ و دراپ با ری اکت
 
